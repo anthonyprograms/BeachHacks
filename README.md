@@ -1,0 +1,2 @@
+# BeachHacks
+Website for BeachHacks
